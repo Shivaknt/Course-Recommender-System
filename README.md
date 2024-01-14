@@ -1,1 +1,1 @@
-# Cousre-Recommender-System
+# Course-Recommender-System
